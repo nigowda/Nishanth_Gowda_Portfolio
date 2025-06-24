@@ -29,4 +29,4 @@ A comprehensive SQL case study conducted on Brazilian E-commerce data, using Big
 
 
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nigowda.nigowda&left_color=green&right_color=blue)
+![](https://komarev.com/ghpvc/?username=nigowda&label=Profile%20views&color=0e75b6&style=flat)
