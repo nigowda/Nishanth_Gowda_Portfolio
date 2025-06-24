@@ -26,3 +26,7 @@ A comprehensive SQL case study conducted on Brazilian E-commerce data, using Big
 - Evaluated state-wise sales, freight efficiency, and customer concentration.
 - Assessed payment types and usage of installment plans.
 - Derived insights to understand logistics, customer behavior, and business performance.
+
+
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nigowda.nigowda&left_color=green&right_color=blue)
