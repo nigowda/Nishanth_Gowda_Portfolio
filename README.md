@@ -29,4 +29,6 @@ A comprehensive SQL case study conducted on Brazilian E-commerce data, using Big
 
 
 
+
+
 ![](https://komarev.com/ghpvc/?username=nigowda&label=Profile%20views&color=0e75b6&style=flat)
